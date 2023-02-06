@@ -6,7 +6,7 @@ import "./shop.css";
 export const Shop = () => {
   return (
     <div className='shop'>
-        <div>
+        <div className='shopTitle'>
             <h1> SuperTeh prodavnica</h1>
         </div>
         <div className='products'>
